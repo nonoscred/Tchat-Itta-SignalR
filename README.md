@@ -1,6 +1,8 @@
 # Tchat-Itta-SignalR MVC 5 
 =======
 
+Real-time web application development with ASP.NET SignalR 2 and ASP.NET MVC 5. The tutorial uses the same chat application code as the SignalR Getting Started tutorial, but shows how to add it to an MVC 5 application.
+
 Installation SignalR
 ============
 
@@ -10,7 +12,7 @@ Open the Tools | Library Package Manager | Package Manager Console and run the f
 
 In Solution Explorer, expand the Scripts folder. Note that script libraries for SignalR have been added to the project.
 
-    php composer.phar update
+
 
 In Solution Explorer, right-click the project, select Add | New Folder, and add a new folder named Hubs.
 
